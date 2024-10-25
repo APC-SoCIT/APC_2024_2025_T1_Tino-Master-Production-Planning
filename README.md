@@ -68,9 +68,9 @@
 		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Carlo C. Poblete</p></td>
+		<td><p style="text-align:center;">Bary F. Reyes</p></td>
     <td><p style="text-align:center;">Adviser</p></td>
-		<td><p style="text-align:center;">ccpoblete@apc.edu.ph</p></td>
+		<td><p style="text-align:center;">baryr@apc.edu.ph</p></td>
 	</tr>
   <tr>
 		<td><p style="text-align:center;">Jose Eugenio L. Quesada</p></td>
